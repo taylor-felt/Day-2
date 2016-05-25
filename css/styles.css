@@ -40,3 +40,15 @@ footer{
  height: 100%;
  color: white;
 }
+/*media queries*/
+@media screen and (min-width: 375px) {
+   .promo{
+      background-color: blue;
+   } 
+}
+
+@media screen and (min-width: 768px) {
+   .promo{
+      background-color: grey;
+   }
+}
